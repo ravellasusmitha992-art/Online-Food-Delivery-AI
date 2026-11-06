@@ -491,3 +491,5 @@ This project demonstrates:
 ---
 
 **Built as a CSE fresher portfolio project** 🎓 — Ready to impress! 🚀
+## Project Setup
+Online Food Delivery AI - Full Stack Application.
